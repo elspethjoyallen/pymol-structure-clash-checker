@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.pse
+*.psw
+clash_report.csv
+*_clashes.csv
